@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\paulino.benavides\\Fiserv Corp\\Castro Rodriguez, Fernando (Barreal de Heredia) - Cloud Fundamentals\\Demos\\Demos_v2\\webapi-cicd\\InventoryServiceTest\\InventoryServiceTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\paulino.benavides\\Fiserv Corp\\Castro Rodriguez, Fernando (Barreal de Heredia) - Cloud Fundamentals\\Demos\\Demos_v2\\webapi-cicd\\InventoryServiceTest\\InventoryServiceTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulino.benavides\\Fiserv Corp\\Castro Rodriguez, Fernando (Barreal de Heredia) - Cloud Fundamentals\\Demos\\Demos_v2\\webapi-cicd\\InventoryServiceTest\\InventoryServiceTest.csproj",
+        "projectName": "InventoryServiceTest",
+        "projectPath": "C:\\Users\\paulino.benavides\\Fiserv Corp\\Castro Rodriguez, Fernando (Barreal de Heredia) - Cloud Fundamentals\\Demos\\Demos_v2\\webapi-cicd\\InventoryServiceTest\\InventoryServiceTest.csproj",
+        "packagesPath": "C:\\Users\\paulino.benavides\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulino.benavides\\Fiserv Corp\\Castro Rodriguez, Fernando (Barreal de Heredia) - Cloud Fundamentals\\Demos\\Demos_v2\\webapi-cicd\\InventoryServiceTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\paulino.benavides\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://pddv-tfs.corp.checkfree.com/nuget/RestModules": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\paulino.benavides\\Fiserv Corp\\Castro Rodriguez, Fernando (Barreal de Heredia) - Cloud Fundamentals\\Demos\\Demos_v2\\webapi-cicd\\InventoryService\\InventoryService.csproj": {
+                "projectPath": "C:\\Users\\paulino.benavides\\Fiserv Corp\\Castro Rodriguez, Fernando (Barreal de Heredia) - Cloud Fundamentals\\Demos\\Demos_v2\\webapi-cicd\\InventoryService\\InventoryService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.111\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulino.benavides\\Fiserv Corp\\Castro Rodriguez, Fernando (Barreal de Heredia) - Cloud Fundamentals\\Demos\\Demos_v2\\webapi-cicd\\InventoryService\\InventoryService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulino.benavides\\Fiserv Corp\\Castro Rodriguez, Fernando (Barreal de Heredia) - Cloud Fundamentals\\Demos\\Demos_v2\\webapi-cicd\\InventoryService\\InventoryService.csproj",
+        "projectName": "InventoryService",
+        "projectPath": "C:\\Users\\paulino.benavides\\Fiserv Corp\\Castro Rodriguez, Fernando (Barreal de Heredia) - Cloud Fundamentals\\Demos\\Demos_v2\\webapi-cicd\\InventoryService\\InventoryService.csproj",
+        "packagesPath": "C:\\Users\\paulino.benavides\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulino.benavides\\Fiserv Corp\\Castro Rodriguez, Fernando (Barreal de Heredia) - Cloud Fundamentals\\Demos\\Demos_v2\\webapi-cicd\\InventoryService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\paulino.benavides\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://pddv-tfs.corp.checkfree.com/nuget/RestModules": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.111\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
