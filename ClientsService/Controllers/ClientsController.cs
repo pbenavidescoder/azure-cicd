@@ -20,7 +20,7 @@ namespace ClientsService.Controllers
             clientList.Add("1", "Alfredo Martínez");
             clientList.Add("2", "Samantha Rojas");
             clientList.Add("3", "Verónica Sanchez");
-            clientList.Add("4", "Pablo Solano");
+            clientList.Add("4", "Pablo Solano2");
         }
 
         // GET api/clients
